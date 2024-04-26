@@ -14,6 +14,8 @@ To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/
 This filament spooler is designed for standard 1kg filament spools.  200mm dia x 54mm hub.
 It can be mounted to a board or the included base.
 
+There are two syles of hubs for the main spool.  One is designed around a 54mm hub, and 68mm width.  The Hub_U has end caps to fit any width, and different end caps could be designed for other hub diameters.
+
 Hardware:
 Hub Screws:  3 - #6 x 1/2" sheet metal screws
 
