@@ -15,7 +15,7 @@ This filament spooler is designed for standard 1kg filament spools.  200mm dia x
 It can be mounted to a board or the included base.
 
 Hardware:
-Hub Screws:  3 - #6x1/2" sheet metal screws
+Hub Screws:  3 - #6 x 1/2" sheet metal screws
 
 Base Mounting:
 2 - #6 x 1/2" Machine Screws
