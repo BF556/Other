@@ -11,8 +11,18 @@ Under the following terms:
 
 To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/ or send a letter to: Creative Commons, PO Box 1866, Mountain View, CA 94042, USA
 
-Please read the manual for project details.
-To download click the green "Code" button, then click "Download Zip".  In dedictation of my friend Dr3wcifer.
+This filament spooler is designed for standard 1kg filament spools.  200mm dia x 54mm hub.
+It can be mounted to a board or the included base.
+
+Hardware:
+Hub Screws:  3 - #6x1/2" sheet metal screws
+
+Base Mounting:
+2 - #6 x 1/2" Machine Screws
+4 - #6 x 3/4" Machine Screws
+6 - #6 Lock Nuts
+
+To download click the green "Code" button, then click "Download Zip".  
 
 paypal: writeus2day@yahoo.com
 @bf556 on Coinbase
