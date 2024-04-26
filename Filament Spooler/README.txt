@@ -11,7 +11,7 @@ Under the following terms:
 
 To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/ or send a letter to: Creative Commons, PO Box 1866, Mountain View, CA 94042, USA
 
-This filament spooler is designed for standard 1kg filament spools.  200mm dia x 54mm hub.
+This filament spooler is designed for standard 1kg filament spools.  200mm dia x 68mm width x 54mm hub.
 It can be mounted to a board or the included base.
 
 There are two syles of hubs for the main spool.  One is designed around a 54mm hub, and 68mm width.  The Hub_U has end caps to fit any width, and different end caps could be designed for other hub diameters.
