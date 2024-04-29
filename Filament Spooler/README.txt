@@ -19,6 +19,10 @@ There are two syles of hubs for the main spool.  One is designed around a 54mm h
 Hardware:
 Hub Screws:  3 - #6 x 1/2" sheet metal screws
 
+Feed Bracket:
+1- 1/4" x 1" bolt
+1 - 1/4" lock nut
+
 Base Mounting:
 2 - #6 x 1/2" Machine Screws
 4 - #6 x 3/4" Machine Screws
